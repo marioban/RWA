@@ -1,0 +1,9 @@
+create table Korisnik (
+IDKorisnik int primary key identity
+Email nvarchar(50) unique not null,
+Lozinka nvarchar(50) not null
+)
+
+insert into Korisnik(Email, Lozinka) values ('pero@peric.hr', '12345')
+
+go

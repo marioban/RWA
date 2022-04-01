@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Core.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=FB3BF18A_002D5A34_002D4734_002DACED_002D662DF3684384_002Fd_003AScripts_002Ff_003Ajquery_002D3_002E3_002E1_002Eintellisense_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=FB3BF18A_002D5A34_002D4734_002DACED_002D662DF3684384_002Fd_003AScripts_002Ff_003Amodernizr_002D2_002E8_002E3_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=FB3BF18A_002D5A34_002D4734_002DACED_002D662DF3684384_002Fd_003AScripts_002Ff_003Ajquery_002D3_002E3_002E1_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=FB3BF18A_002D5A34_002D4734_002DACED_002D662DF3684384_002Fd_003AScripts_002Ff_003Ajquery_002D3_002E3_002E1_002Eslim_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=FB3BF18A_002D5A34_002D4734_002DACED_002D662DF3684384_002Fd_003AScripts_002Ff_003Abootstrap_002Ejs/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,11 @@
+﻿:root {
+    --main-color: #00bfff;
+}
+
+.bg-custom {
+    background-color: var(--main-color);
+}
+
+.navbar {
+    font-size: 1.5em;
+}

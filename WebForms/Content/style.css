@@ -1,0 +1,23 @@
+﻿:root {
+    --main-color: #0094ff;
+}
+
+
+
+
+.bg-custom {
+    background-color: var(--main-color);
+}
+
+.navbar {
+    font-size: 1.5em;
+}
+
+.container {
+    margin-top: 15px;
+  
+}
+
+.shadowrealm {
+    box-shadow: 0 0 100px 0px rgba(231 231 231), 0 0 1000px 0px rgb(231 231 231);
+}

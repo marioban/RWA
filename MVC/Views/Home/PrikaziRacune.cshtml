@@ -1,0 +1,56 @@
+﻿@model IEnumerable<MVC.Models.RacunData>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BrojRacuna)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NazivProizvoda)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kolicina)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NazivPotkategorije)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NazivKategorije)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipKK)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Komercijalist)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BrojRacuna)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NazivProizvoda)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kolicina)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NazivPotkategorije)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NazivKategorije)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipKK)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Komercijalist)
+        </td>
+    </tr>
+}
+
+</table>
